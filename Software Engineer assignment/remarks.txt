@@ -1,0 +1,16 @@
+Prescription ID: 1
+Remark Type: client
+Remark: This is a valid client remark.
+-----------------------------------------------------
+Prescription ID: 1
+Remark Type: optometrist
+Remark: This is a valid optometrist remark that contains exactly twenty words for testing purpose.
+-----------------------------------------------------
+Prescription ID: 1
+Remark Type: client
+Remark: This is a valid client remark.
+-----------------------------------------------------
+Prescription ID: 1
+Remark Type: optometrist
+Remark: This is a valid optometrist remark.
+-----------------------------------------------------
